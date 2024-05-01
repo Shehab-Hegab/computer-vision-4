@@ -28,3 +28,17 @@ Agglomerative Clustering
 ![image](https://github.com/Shehab-Hegab/computer-vision-4/assets/137138481/d3f50ff9-82b6-4832-92f4-e8df22d6bfcc)
 
 
+##
+Mean Shift Clustering
+
+![image](https://github.com/Shehab-Hegab/computer-vision-4/assets/137138481/1d42f0f8-ba1d-4072-acec-9d2575087007)
+
+
+
+##
+![image](https://github.com/Shehab-Hegab/computer-vision-4/assets/137138481/2326d87c-5ba4-4429-b114-6b4c47c9c99f)
+
+##
+![image](https://github.com/Shehab-Hegab/computer-vision-4/assets/137138481/7773c9b3-7ff4-4cf5-9a65-597662e1f5a8)
+
+
