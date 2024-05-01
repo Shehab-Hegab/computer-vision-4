@@ -1,0 +1,33 @@
+k-means
+
+https://medium.com/swlh/image-segmentation-using-k-means-clustering-46a60488ae71
+
+
+region growing
+
+https://developer.nvidia.com/blog/building-medical-3d-image-segmentation-using-jupyter-notebooks-from-the-ngc-catalog/
+
+
+
+agglomerative
+
+https://scikit-learn.org/stable/auto_examples/cluster/plot_agglomerative_clustering.html
+
+https://www.youtube.com/watch?v=Ka5i9TVUT-E
+
+
+
+mean shift
+
+https://scikit-learn.org/stable/auto_examples/cluster/plot_mean_shift.html
+
+https://www.geeksforgeeks.org/mean-shift-clustering-using-sklearn/
+
+https://www.geeksforgeeks.org/ml-mean-shift-clustering/
+
+
+######################
+
+https://docs.google.com/spreadsheets/d/1M4VQBXmWa-SkLgwcCM-FKLwW8bjhrPjEie7eolFCx24/edit#gid=0
+
+https://drive.google.com/drive/u/1/folders/1H_me94tIKf_RJbtBDcm0IHopJp_1_4Dq
